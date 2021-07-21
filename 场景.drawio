@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T07:38:24.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="0HjHiaCEguUPRQBj-gnP" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T07:50:52.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="NdPpf_1_nwNuFt6Cxm8v" version="14.9.0" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="716" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,6 +120,13 @@
         </mxCell>
         <mxCell id="AwNw5JYC8Uk12WGBqzZV-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AwNw5JYC8Uk12WGBqzZV-38" target="AwNw5JYC8Uk12WGBqzZV-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qzluck5pf1jZKNph7DdI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AwNw5JYC8Uk12WGBqzZV-38" target="qzluck5pf1jZKNph7DdI-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1670" y="85" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="AwNw5JYC8Uk12WGBqzZV-38" value="用户收到置换机&lt;br&gt;签收快递" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1620" y="220" width="100" height="50" as="geometry" />
@@ -386,6 +393,9 @@
         </mxCell>
         <mxCell id="qzluck5pf1jZKNph7DdI-45" value="&lt;font color=&quot;#00cc00&quot;&gt;状态：已发货&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1490" y="270" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qzluck5pf1jZKNph7DdI-47" value="&lt;font color=&quot;#00cc00&quot;&gt;状态：已取消&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1766.5" y="260" width="87" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
