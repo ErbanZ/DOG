@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T07:22:44.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="nKokviet0KDYwz0CK6tc" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T07:38:24.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="0HjHiaCEguUPRQBj-gnP" version="14.9.0" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="1221" dy="1471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -359,6 +359,33 @@
         </mxCell>
         <mxCell id="qzluck5pf1jZKNph7DdI-34" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;确认发货&lt;br&gt;用户待收货&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;（短信通知）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1626" y="608" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qzluck5pf1jZKNph7DdI-35" value="&lt;font color=&quot;#00cc00&quot;&gt;状态：编辑中&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="510" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qzluck5pf1jZKNph7DdI-36" value="&lt;font color=&quot;#00cc00&quot;&gt;状态：待收货&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353" y="347" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qzluck5pf1jZKNph7DdI-37" value="&lt;font color=&quot;#00cc00&quot;&gt;状态：审核驳回&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="349.5" y="638" width="87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qzluck5pf1jZKNph7DdI-39" value="&lt;font color=&quot;#00cc00&quot;&gt;状态：已取消&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1766.5" y="90" width="87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qzluck5pf1jZKNph7DdI-40" value="&lt;font color=&quot;#00cc00&quot;&gt;状态：待审核&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="490" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qzluck5pf1jZKNph7DdI-41" value="&lt;font color=&quot;#00cc00&quot;&gt;状态：已收货&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="260" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qzluck5pf1jZKNph7DdI-42" value="&lt;font color=&quot;#00cc00&quot;&gt;状态：已收货&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="260" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qzluck5pf1jZKNph7DdI-44" value="&lt;font color=&quot;#00cc00&quot;&gt;状态：待发货&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="260" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qzluck5pf1jZKNph7DdI-45" value="&lt;font color=&quot;#00cc00&quot;&gt;状态：已发货&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="270" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
