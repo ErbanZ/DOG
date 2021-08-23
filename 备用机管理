@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-20T02:01:32.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" etag="0uzgNiS1hA94SAJCNEEp" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-23T02:51:44.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="io2OXxKBIynEJKw8MLPT" version="14.9.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="714" dy="1501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="1772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -21,13 +21,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="x3SLApx58ICIDKFHpieS-17" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+        <mxCell id="x3SLApx58ICIDKFHpieS-17" value="" style="group;fontStyle=0;horizontal=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="720" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="x3SLApx58ICIDKFHpieS-18" value="&lt;span style=&quot;font-size: 14px&quot;&gt;调用易签宝&lt;br&gt;发送短信使用户&lt;br&gt;确认&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="x3SLApx58ICIDKFHpieS-17" vertex="1">
+        <mxCell id="x3SLApx58ICIDKFHpieS-18" value="&lt;span style=&quot;font-size: 14px&quot;&gt;调用易签宝&lt;br&gt;发送短信使用户&lt;br&gt;确认&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;horizontal=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="x3SLApx58ICIDKFHpieS-17" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x3SLApx58ICIDKFHpieS-19" value="&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;待确认&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="x3SLApx58ICIDKFHpieS-17" vertex="1">
+        <mxCell id="x3SLApx58ICIDKFHpieS-19" value="&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;待确认&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;horizontal=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="x3SLApx58ICIDKFHpieS-17" vertex="1">
           <mxGeometry x="35" y="60" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-21" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
@@ -128,7 +128,7 @@
         <mxCell id="x3SLApx58ICIDKFHpieS-59" value="&lt;span style=&quot;font-size: 14px&quot;&gt;仓库收货&lt;br&gt;入库完成&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="x3SLApx58ICIDKFHpieS-58" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x3SLApx58ICIDKFHpieS-60" value="&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;已完成&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="x3SLApx58ICIDKFHpieS-58" vertex="1">
+        <mxCell id="x3SLApx58ICIDKFHpieS-60" value="&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;已收货&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="x3SLApx58ICIDKFHpieS-58" vertex="1">
           <mxGeometry x="22.5" y="60" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x3SLApx58ICIDKFHpieS-9" target="x3SLApx58ICIDKFHpieS-1" edge="1">
@@ -188,9 +188,6 @@
         <mxCell id="x3SLApx58ICIDKFHpieS-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x3SLApx58ICIDKFHpieS-87" target="x3SLApx58ICIDKFHpieS-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x3SLApx58ICIDKFHpieS-87" value="&lt;span style=&quot;font-size: 14px&quot;&gt;客服选择结转为&lt;br&gt;置换机&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1420" y="-150" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x3SLApx58ICIDKFHpieS-94" target="x3SLApx58ICIDKFHpieS-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -201,9 +198,6 @@
               <mxPoint x="2340" y="-30" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="x3SLApx58ICIDKFHpieS-94" value="&lt;span style=&quot;font-size: 14px&quot;&gt;备用机是否处于&lt;br&gt;待归还状态&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1620" y="-160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x3SLApx58ICIDKFHpieS-39" target="x3SLApx58ICIDKFHpieS-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -346,15 +340,7 @@
           <mxGeometry x="700" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-148" value="&lt;span style=&quot;font-size: 14px&quot;&gt;维修机可以&lt;br&gt;取消 /&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;结转&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2060" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="x3SLApx58ICIDKFHpieS-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x3SLApx58ICIDKFHpieS-59" target="x3SLApx58ICIDKFHpieS-148" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2020" y="320" />
-              <mxPoint x="2120" y="320" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="2140" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-150" value="&lt;span style=&quot;font-size: 14px&quot;&gt;维修单变更是否&lt;br&gt;申请备用机状态&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="940" y="-240" width="120" height="60" as="geometry" />
@@ -366,10 +352,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-154" value="&lt;span style=&quot;font-size: 14px&quot;&gt;维修单变更是否&lt;br&gt;申请备用机状态&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2060" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="x3SLApx58ICIDKFHpieS-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x3SLApx58ICIDKFHpieS-59" target="x3SLApx58ICIDKFHpieS-154" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="2140" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-158" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="1320" y="650" width="540" height="78" as="geometry" />
@@ -405,16 +388,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-cAXnOWlLJTbhzoT1pN6-0" value="&lt;span style=&quot;font-size: 14px&quot;&gt;绿底&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=70;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-cAXnOWlLJTbhzoT1pN6-0" value="&lt;span style=&quot;font-size: 14px&quot;&gt;绿底&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-cAXnOWlLJTbhzoT1pN6-1" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#080808&quot;&gt;：与维修机相关&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-cAXnOWlLJTbhzoT1pN6-1" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#080808&quot;&gt;：与维修机相关&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="-220" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-cAXnOWlLJTbhzoT1pN6-2" value="&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;绿字&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#C9C9C9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-cAXnOWlLJTbhzoT1pN6-2" value="&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;绿字&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#C9C9C9;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="-140" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-cAXnOWlLJTbhzoT1pN6-3" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-cAXnOWlLJTbhzoT1pN6-3" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="320" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-1" value="&lt;span style=&quot;font-size: 14px&quot;&gt;编辑工单信息&lt;br&gt;成功&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="-cAXnOWlLJTbhzoT1pN6-3" vertex="1">
@@ -423,17 +406,58 @@
         <mxCell id="x3SLApx58ICIDKFHpieS-3" value="&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;待审核 /&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 204 , 0) ; font-size: 14px&quot;&gt;审核驳回&lt;/span&gt;&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-cAXnOWlLJTbhzoT1pN6-3" vertex="1">
           <mxGeometry y="60" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-cAXnOWlLJTbhzoT1pN6-4" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#080808&quot;&gt;：备用机工单状态&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-cAXnOWlLJTbhzoT1pN6-4" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#080808&quot;&gt;：备用机工单状态&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="-140" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-142" value="&lt;font color=&quot;#363636&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;维修机在什么状态 ，可以申请备用机&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;opacity=60;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="121" y="650" width="540" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="x3SLApx58ICIDKFHpieS-143" value="&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;？？？&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="331.6200000000001" y="693" width="118.75" height="35" as="geometry" />
+        <mxCell id="-cAXnOWlLJTbhzoT1pN6-5" value="&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;申请维修，待收货&lt;br&gt;确认收货，检测中&lt;br&gt;检测完成，待审核&lt;br&gt;审核完成，待付款&lt;br&gt;付款完成，维修中&lt;br&gt;维修完成，测试中&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="271.81" y="630" width="238.38" height="252" as="geometry" />
         </mxCell>
-        <mxCell id="-cAXnOWlLJTbhzoT1pN6-5" value="&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;申请维修，待收货&lt;br&gt;确认收货，检测中&lt;br&gt;检测完成，待审核&lt;br&gt;审核完成，待付款&lt;br&gt;付款完成，维修中&lt;br&gt;维修完成，测试中&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="271.81" y="660" width="238.38" height="252" as="geometry" />
+        <mxCell id="IGxFC0sSlB-PbONtkbiT-2" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1420" y="-150" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="x3SLApx58ICIDKFHpieS-87" value="&lt;span style=&quot;font-size: 14px&quot;&gt;客服选择结转为&lt;br&gt;置换机&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="IGxFC0sSlB-PbONtkbiT-2" vertex="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGxFC0sSlB-PbONtkbiT-0" value="&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;结转中&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IGxFC0sSlB-PbONtkbiT-2">
+          <mxGeometry x="25" y="60" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="IGxFC0sSlB-PbONtkbiT-3" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1620" y="-160" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="x3SLApx58ICIDKFHpieS-94" value="&lt;span style=&quot;font-size: 14px&quot;&gt;备用机是否处于&lt;br&gt;待归还状态&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="IGxFC0sSlB-PbONtkbiT-3" vertex="1">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IGxFC0sSlB-PbONtkbiT-1" value="&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;结转中&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IGxFC0sSlB-PbONtkbiT-3">
+          <mxGeometry x="25" y="70" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="IGxFC0sSlB-PbONtkbiT-4" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1960" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IGxFC0sSlB-PbONtkbiT-5" value="&lt;span style=&quot;font-size: 14px&quot;&gt;完成备用机工单&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IGxFC0sSlB-PbONtkbiT-4">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGxFC0sSlB-PbONtkbiT-6" value="&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;已完成&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IGxFC0sSlB-PbONtkbiT-4">
+          <mxGeometry x="22.5" y="60" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IGxFC0sSlB-PbONtkbiT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x3SLApx58ICIDKFHpieS-59" target="IGxFC0sSlB-PbONtkbiT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IGxFC0sSlB-PbONtkbiT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IGxFC0sSlB-PbONtkbiT-5" target="x3SLApx58ICIDKFHpieS-154">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2020" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGxFC0sSlB-PbONtkbiT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IGxFC0sSlB-PbONtkbiT-5" target="x3SLApx58ICIDKFHpieS-148">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2020" y="585" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
