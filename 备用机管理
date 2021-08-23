@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-23T02:51:44.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="io2OXxKBIynEJKw8MLPT" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-23T02:53:48.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="NW1X4hYVP6uTuXByLRPJ" version="14.9.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1242" dy="1772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1753" dy="2021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -409,12 +409,6 @@
         <mxCell id="-cAXnOWlLJTbhzoT1pN6-4" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#080808&quot;&gt;：备用机工单状态&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="-140" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="x3SLApx58ICIDKFHpieS-142" value="&lt;font color=&quot;#363636&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;维修机在什么状态 ，可以申请备用机&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;opacity=60;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="121" y="650" width="540" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="-cAXnOWlLJTbhzoT1pN6-5" value="&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;申请维修，待收货&lt;br&gt;确认收货，检测中&lt;br&gt;检测完成，待审核&lt;br&gt;审核完成，待付款&lt;br&gt;付款完成，维修中&lt;br&gt;维修完成，测试中&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="271.81" y="630" width="238.38" height="252" as="geometry" />
-        </mxCell>
         <mxCell id="IGxFC0sSlB-PbONtkbiT-2" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1420" y="-150" width="120" height="85" as="geometry" />
         </mxCell>
@@ -458,6 +452,15 @@
               <mxPoint x="2020" y="585" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IGxFC0sSlB-PbONtkbiT-11" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="65.25" y="650" width="229.5" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="x3SLApx58ICIDKFHpieS-142" value="&lt;font color=&quot;#363636&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;维修机在以下状态申请备用机&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;opacity=60;fillColor=#d5e8d4;strokeColor=#82b366;" parent="IGxFC0sSlB-PbONtkbiT-11" vertex="1">
+          <mxGeometry width="229.5" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="-cAXnOWlLJTbhzoT1pN6-5" value="&lt;font color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;申请维修，待收货&lt;br&gt;确认收货，检测中&lt;br&gt;检测完成，待审核&lt;br&gt;审核完成，待付款&lt;br&gt;付款完成，维修中&lt;br&gt;维修完成，测试中&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="IGxFC0sSlB-PbONtkbiT-11" vertex="1">
+          <mxGeometry x="49.75" y="43" width="130" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
