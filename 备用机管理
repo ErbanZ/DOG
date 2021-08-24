@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-23T12:40:29.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="ycOAvtrtvxReekqGtIHU" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T03:34:35.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="DC4pyKsGDaNNc44sxTBg" version="14.9.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1490" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,7 +195,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1680" y="-30" />
-              <mxPoint x="2340" y="-30" />
+              <mxPoint x="2422" y="-30" />
+              <mxPoint x="2422" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -229,7 +230,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2280" y="-30" />
-              <mxPoint x="2340" y="-30" />
+              <mxPoint x="2422" y="-30" />
+              <mxPoint x="2422" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -246,25 +248,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x3SLApx58ICIDKFHpieS-105" target="x3SLApx58ICIDKFHpieS-106" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2423" y="90" />
+              <mxPoint x="2543" y="90" />
+              <mxPoint x="2543" y="150" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-105" value="&lt;span style=&quot;font-size: 14px&quot;&gt;保存备用机&lt;br&gt;结转置换机记录&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2280" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="2362.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x3SLApx58ICIDKFHpieS-106" target="x3SLApx58ICIDKFHpieS-112" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-106" value="&lt;span style=&quot;font-size: 14px&quot;&gt;原备用机状态变更为已取消&lt;br&gt;新增置换工单&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2400" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="2482.5" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x3SLApx58ICIDKFHpieS-107" target="x3SLApx58ICIDKFHpieS-108" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-107" value="&lt;span style=&quot;font-size: 14px&quot;&gt;向 SAP 发起&lt;br&gt;维修机入库申请&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2160" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="2242.5" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-108" value="&lt;span style=&quot;font-size: 14px&quot;&gt;原维修单状态变更为已取消，订单变更为待退款/已取消&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2160" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="2242.5" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x3SLApx58ICIDKFHpieS-112" target="x3SLApx58ICIDKFHpieS-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -273,19 +281,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-112" value="&lt;span style=&quot;font-size: 14px&quot;&gt;向用户发起作废&lt;br&gt;备用机协议，发送置换机确认协议&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2400" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="2482.5" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-113" value="&lt;span style=&quot;font-size: 14px&quot;&gt;置换工单状态变更为已完成&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2280" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="2362.5" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-114" value="&lt;span style=&quot;font-size: 14px&quot;&gt;置换机待确认状态&lt;br&gt;取消置换&lt;br&gt;回退原有维修/备用&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2520" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="2602.5" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-117" value="&lt;font color=&quot;#080808&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;入库成功&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2155" y="210" width="130" height="20" as="geometry" />
+          <mxGeometry x="2237.5" y="200" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-118" value="&lt;font color=&quot;#080808&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;用户同意协议&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2300" y="320" width="130" height="20" as="geometry" />
+          <mxGeometry x="2382.5" y="430" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x3SLApx58ICIDKFHpieS-121" value="&lt;font color=&quot;#080808&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;否&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2250" y="-50" width="130" height="20" as="geometry" />
